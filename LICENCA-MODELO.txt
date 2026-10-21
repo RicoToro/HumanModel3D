@@ -1,0 +1,4 @@
+Écorché (github.com/Charleeh/ecorche), CC BY-SA 4.0.
+Based on BodyParts3D, © The Database Center for Life Science, CC BY 4.0, and Z-Anatomy by Gauthier Kervyn, CC BY-SA 4.0.
+
+The 3D model and any derivatives must remain under CC BY-SA 4.0 when redistributed. Please consult the original project for full attribution notices and source licenses: https://github.com/Charleeh/ecorche
